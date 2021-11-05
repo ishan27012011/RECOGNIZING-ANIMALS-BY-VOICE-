@@ -1,0 +1,33 @@
+
+    .header{
+    font-family:cursive!important ;
+    background-color: aliceblue;
+    }
+    #button11{
+    margin-top: 30px;
+    width: 500px;
+    height: 100px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    font-size: 50px;
+    color: black;
+    font-family: monospace;
+    }
+    .footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    text-shadow: 5px 5px 5px gray;
+    background-color: white;
+    line-height: 3;
+    }
+    #main_div{
+    height: 1000px;
+    background-color: khaki;
+    }
+    img{
+    width:300px;
+    height: 300px;
+    }
